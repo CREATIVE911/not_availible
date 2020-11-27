@@ -1,1 +1,11 @@
-# not_availible
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>not availible</title>
+</head>
+<body>
+    <center><h1>NOt Availible till now opens near 2022</h1></center>
+</body>
+</html>
